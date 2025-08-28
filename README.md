@@ -44,7 +44,7 @@ We visualized the distribution of word frequencies (`free`, `offer`, `win`) acro
 ## 🚀 Run Locally
 
 ### 🔹 1. Clone the Repository
-```bash
+
 git clone https://github.com/YOUR_USERNAME/sms-spam-naive-bayes.git
 cd sms-spam-naive-bayes
 

@@ -1,6 +1,6 @@
 # 📩 SMS Spam Detection using Naïve Bayes  
 
-[![Streamlit App](https://img.shields.io/badge/Live%20Demo-Streamlit-brightgreen?logo=streamlit)](YOUR_STREAMLIT_APP_LINK_HERE)
+[![Streamlit App](https://spam-detection-using-naive-bayes-2da2r9akyve3ubvctpjcua.streamlit.app/)](YOUR_STREAMLIT_APP_LINK_HERE)
 
 ---
 
@@ -76,4 +76,6 @@ Best features: word_freq_offer, word_freq_free
 
 🌐 Live Demo
 
-👉 Click here to try the App
+# 📩 SMS Spam Detection App
+
+👉 [Click here to try the App](https://spam-detection-using-naive-bayes-2da2r9akyve3ubvctpjcua.streamlit.app/)

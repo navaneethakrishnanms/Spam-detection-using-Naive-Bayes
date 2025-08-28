@@ -18,7 +18,7 @@ We visualized the distribution of word frequencies (`free`, `offer`, `win`) acro
 
 
 ### 2️⃣ Streamlit App UI
-![App Screenshot](images/Screenshot 2025-08-28 231437.png)
+![App Screenshot](images/output.png)
 
 ---
 

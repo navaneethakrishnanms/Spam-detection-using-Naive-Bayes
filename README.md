@@ -1,7 +1,5 @@
 # 📩 SMS Spam Detection using Naïve Bayes  
 
-[![Streamlit App](https://spam-detection-using-naive-bayes-2da2r9akyve3ubvctpjcua.streamlit.app/)](YOUR_STREAMLIT_APP_LINK_HERE)
-
 ---
 
 ## 🔍 Project Overview
@@ -20,7 +18,7 @@ We visualized the distribution of word frequencies (`free`, `offer`, `win`) acro
 
 
 ### 2️⃣ Streamlit App UI
-![App Screenshot](images/app_screenshot.png)
+![App Screenshot](images/Screenshot 2025-08-28 231437.png)
 
 ---
 
